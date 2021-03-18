@@ -89,7 +89,6 @@ body > .container-fluid {
   color: #f0f0e6;
   font-weight: 500;
   font-size: 1em;
-  text-transform: lowercase;
   margin: 10px 5px 5px 5px;
   border-radius: 5px; }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
