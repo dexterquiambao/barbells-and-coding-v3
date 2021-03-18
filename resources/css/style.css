@@ -213,7 +213,11 @@ body > .container-fluid {
     color: #f0f0e6; }
 .portfolio-projects--image {
   margin-bottom: 1.875em;
-  padding-top: 5%; }
+  padding-top: 5%;
+  width: 300px;
+  height: 220px;
+  object-fit: fill;
+  border-radius: 5px; }
 
 #contact {
   background-color: #07374a; }
