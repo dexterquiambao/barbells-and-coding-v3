@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Comfortaa:400,700,300|Quattrocento");
 .about-tools ul li, .contact-social-icons ul a li {
   text-align: center; }
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 .centered {
   float: none;
@@ -87,8 +88,9 @@ body > .container-fluid {
 
 .navbar-default .navbar-nav > li > a {
   color: #f0f0e6;
+  font-family: 'VT323', monospace;
   font-weight: 500;
-  font-size: 1em;
+  font-size: 1.3em;
   margin: 10px 5px 5px 5px;
   border-radius: 5px; }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
@@ -216,7 +218,10 @@ body > .container-fluid {
   height: 194px;
   object-fit: fill;
    }
-
+.uses {
+  font-family: 'VT323', monospace;
+  font-size: 1.1em;
+}
 #contact {
   background-color: #07374a; }
   #contact h2 {
